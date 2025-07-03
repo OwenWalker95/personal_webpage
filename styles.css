@@ -1,0 +1,25 @@
+body{
+    background-color: #B3BFFF;
+    font-family: Arial;
+}
+
+#profile_pic{
+    width: 200px;
+    height: auto;
+}
+
+#intro{
+    display: flex;
+}
+
+
+
+h1{
+    font-family: Arial black;
+}
+
+p{
+
+    color:blue;
+}
+
