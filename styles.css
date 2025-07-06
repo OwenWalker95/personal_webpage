@@ -1,6 +1,24 @@
 body{
-    background-color: #B3BFFF;
+    background-color: #B0B0B0;
     font-family: Arial;
+}
+
+h1{
+    background-color: #7D7D7D;    
+    font-family: Arial black;
+}
+
+h2{
+
+}
+
+p{
+
+    color:black;
+}
+
+ul{
+    color:black;
 }
 
 #profile_pic{
@@ -8,18 +26,14 @@ body{
     height: auto;
 }
 
+
 #intro{
     display: flex;
 }
 
 
-
-h1{
-    font-family: Arial black;
-}
-
-p{
-
-    color:blue;
+.tetris_img{
+    width: 400px;
+    height: auto;
 }
 
